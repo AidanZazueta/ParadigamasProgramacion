@@ -1,5 +1,5 @@
 +++
 date = '2026-02-20T17:11:00-08:00'
 draft = true
-title = 'Index'
+title = 'Practica1: Elementos basicos de Lenguajes de Programacion'
 +++
