@@ -1,7 +1,7 @@
 +++
 date = '2026-03-28T22:45:01-07:00'
 draft = false
-title = 'Practica3'
+title = 'Practica2'
 +++ <br>
 **Universidad Autonoma de Baja California** <br>
 **Materia**: Paradigmas de la programacion <br>
